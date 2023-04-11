@@ -1,7 +1,7 @@
 # Elections_Scraper
 """
 Popis projektu
-Tento projekt slouží k extrahování výsledků z parlamentních voleb v roce 2017. Odkaz k prohlédnutí naleznete zde.
+Tento projekt slouží k extrahování výsledků z parlamentních voleb v roce 2017. Odkaz k prohlédnutí naleznete https://github.com/VeronikaMikesova/Elections_Scraper.git.
 
 Instalace knihoven
 Knihovny, které jsou použity v kódu jsou uložené v souboru requirements.txt. Pro instalaci doporučuji použít nové virtuální prostředí a s nainstalovaným manažerem spustit následovně:
